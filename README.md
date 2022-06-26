@@ -1,7 +1,8 @@
 # gpsdb.py
 
 * os = linux
-* language = python, mysql
+* language = python
+* server = mariaDB
 * terminal = mobaxterm, putty
 
 * If you need using this code you should understand 'NMEA-0183' Protocol.
